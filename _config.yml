@@ -14,58 +14,51 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Mark Hinton
   pic: 1
-  position: Lead Designer
+  position: Chief Technical Officer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
-      url: #
+      url: uk.linkedin.com/in/markhinton
+    - title: envelope
+      url: mailto:mark.hinton@imageanalysis.org.uk
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Olga Kubassova, Ph.D.
+  pic: 2
+  position: Founder and Chief Executive Officer
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: twitter.com/OlgaKubassova
+    - title: linkedin
+      url: uk.linkedin.com/in/olgakubassova
+    - title: envelope
+      url: mailto:olga@imageanalysis.org.uk
+
+- name: Diana Roettger, Ph.D.
+  pic: 3
+  position: Scientific Project Officer
+  social:
+    - title: linkedin
+      url: uk.linkedin.com/in/dianaroettger
+    - title: envelope
+      url: mailto:diana.roettger@imageanalysis.org.uk
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/imageanalysis
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
-  - title: email
-    url: mailto:kasper.marstal@imageanalysis.co.uk
+    url: #
+
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Image Analysis Ltd
+  - line: QABC Minster House
+  - line: 272-274 Vauxhall Bridge Road
+  - line: SW1V 1BA
+  - line: London
+  - line: United Kingdom
 
 # Build settings
 markdown: kramdown
