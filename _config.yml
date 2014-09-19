@@ -23,17 +23,6 @@ people:
     - title: envelope
       url: mailto:mark.hinton@imageanalysis.org.uk
 
-- name: Dr. Olga Kubassova, Ph.D.
-  pic: 2
-  position: Founder and Chief Executive Officer
-  social:
-    - title: twitter
-      url: twitter.com/OlgaKubassova
-    - title: linkedin
-      url: uk.linkedin.com/in/olgakubassova
-    - title: envelope
-      url: mailto:olga@imageanalysis.org.uk
-
 - name: Dr. Diana Roettger, Ph.D.
   pic: 3
   position: Scientific Project Officer
@@ -42,6 +31,8 @@ people:
       url: uk.linkedin.com/in/dianaroettger
     - title: envelope
       url: mailto:diana.roettger@imageanalysis.org.uk
+    - title: twitter
+      url: https://twitter.com/DianaRoettger
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
