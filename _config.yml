@@ -17,11 +17,10 @@ people:
 - name: Mark Hinton
   pic: 1
   position: Chief Technical Officer
-  social:
-    - title: linkedin
-      url: uk.linkedin.com/in/markhinton
-    - title: envelope
-      url: mailto:mark.hinton@imageanalysis.org.uk
+
+- name: Olga Kubassova
+  pic: 2
+  position: Founder And Chief Executive Officer
 
 - name: Dr. Diana Roettger, Ph.D.
   pic: 3
