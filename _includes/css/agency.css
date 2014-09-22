@@ -663,12 +663,12 @@ section#contact .section-heading {
 }
 
 section#contact .form-group {
-    margin-bottom: 25px;
+    margin-bottom: 0px;
 }
 
 section#contact .form-group input,
 section#contact .form-group textarea {
-    padding: 5px;
+    padding: 10px;
 }
 
 section#contact .form-group input.form-control {
