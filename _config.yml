@@ -4,7 +4,7 @@ baseurl: /openaccess/
 # Site settings
 title: IMAGE ANALYSIS LTD
 email: kasper.marstal@imageanalysis.co.uk
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Free edition of the leading cloud-based platform for standardised analysis of static and contrast-enhanced MRI."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
